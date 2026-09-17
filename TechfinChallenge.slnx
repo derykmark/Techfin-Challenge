@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TechfinChallenge.API/TechfinChallenge.API.csproj" />
+    <Project Path="src/TechfinChallenge.Application/TechfinChallenge.Application.csproj" />
+    <Project Path="src/TechfinChallenge.Domain/TechfinChallenge.Domain.csproj" />
+    <Project Path="src/TechfinChallenge.Infrastructure/TechfinChallenge.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TechfinChallenge.IntegrationTests/TechfinChallenge.IntegrationTests.csproj" />
+    <Project Path="tests/TechfinChallenge.UnitTests/TechfinChallenge.UnitTests.csproj" />
+  </Folder>
+</Solution>

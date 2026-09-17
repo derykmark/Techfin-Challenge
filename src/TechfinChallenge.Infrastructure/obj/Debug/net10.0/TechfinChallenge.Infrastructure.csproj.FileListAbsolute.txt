@@ -1,0 +1,17 @@
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\bin\Debug\net10.0\TechfinChallenge.Infrastructure.deps.json
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\bin\Debug\net10.0\TechfinChallenge.Infrastructure.dll
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\bin\Debug\net10.0\TechfinChallenge.Infrastructure.pdb
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\bin\Debug\net10.0\TechfinChallenge.Application.dll
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\bin\Debug\net10.0\TechfinChallenge.Domain.dll
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\bin\Debug\net10.0\TechfinChallenge.Domain.pdb
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\bin\Debug\net10.0\TechfinChallenge.Application.pdb
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\obj\Debug\net10.0\TechfinChallenge.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\obj\Debug\net10.0\TechfinChallenge.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\obj\Debug\net10.0\TechfinChallenge.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\obj\Debug\net10.0\TechfinChallenge.Infrastructure.AssemblyInfo.cs
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\obj\Debug\net10.0\TechfinChallenge.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\obj\Debug\net10.0\TechfinC.FAAFA59F.Up2Date
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\obj\Debug\net10.0\TechfinChallenge.Infrastructure.dll
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\obj\Debug\net10.0\refint\TechfinChallenge.Infrastructure.dll
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\obj\Debug\net10.0\TechfinChallenge.Infrastructure.pdb
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Infrastructure\obj\Debug\net10.0\ref\TechfinChallenge.Infrastructure.dll

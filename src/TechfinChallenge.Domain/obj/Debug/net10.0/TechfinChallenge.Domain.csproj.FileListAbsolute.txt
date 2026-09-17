@@ -1,0 +1,11 @@
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Domain\bin\Debug\net10.0\TechfinChallenge.Domain.deps.json
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Domain\bin\Debug\net10.0\TechfinChallenge.Domain.dll
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Domain\bin\Debug\net10.0\TechfinChallenge.Domain.pdb
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Domain\obj\Debug\net10.0\TechfinChallenge.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Domain\obj\Debug\net10.0\TechfinChallenge.Domain.AssemblyInfoInputs.cache
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Domain\obj\Debug\net10.0\TechfinChallenge.Domain.AssemblyInfo.cs
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Domain\obj\Debug\net10.0\TechfinChallenge.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Domain\obj\Debug\net10.0\TechfinChallenge.Domain.dll
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Domain\obj\Debug\net10.0\refint\TechfinChallenge.Domain.dll
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Domain\obj\Debug\net10.0\TechfinChallenge.Domain.pdb
+C:\Users\Deryk\Documents\TechfinChallenge\src\TechfinChallenge.Domain\obj\Debug\net10.0\ref\TechfinChallenge.Domain.dll
